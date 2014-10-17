@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vmm:home|Door43 (vmm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vmm|d43-vmm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vmm/archive/master.zip|d43-vmm.zip]]
+
+**Recent Changes**
+{{changes>ns = vmm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vmm|Ethnologue data]]
+
